@@ -7,7 +7,7 @@ credit : https://github.com/second-state/wasm-learning/blob/master/browser/hello
 | :memo:        | Take note of this       |
 |---------------|:------------------------|
 
-To host the project on github.io I COPIED these 3 files from source up to root
+To host the project on github.io I COPIED these 3 files up to the root dir
 
 - hello_lib_bg.wasm
 - hello_lib.js

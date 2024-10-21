@@ -7,4 +7,4 @@ credit : https://github.com/second-state/wasm-learning/blob/master/browser/hello
 | :memo:        | Take note of this       |
 |---------------|:------------------------|
 
-[!NOTE]  : to host the project on github.io I COPIED the 3 files from source up to root
+To host the project on github.io I COPIED the 3 files from source up to root
